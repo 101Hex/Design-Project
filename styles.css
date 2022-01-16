@@ -1,0 +1,61 @@
+
+
+h1 {
+background-image: url(https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d28971e34a5c400084b299e%2F0x0.jpg);
+background-position: no-repeat;
+background-size: 100%;
+width: 250px;
+height: 250px;
+
+}
+
+.title{
+    display: inline-flexbox;
+    width: 1000px;
+    left: 50%;
+}
+
+.about {
+    border: 10px outset red;
+    padding-bottom: 4px;
+    margin-right: 1000px;
+    background-color: grey;
+}
+
+h2{
+    border: 7px outset red;
+    background-color: grey;
+    margin-right: 1000px;
+}
+
+body {
+ background-color: grey;
+}
+
+.img {
+    margin-bottom: -50px;
+    padding-bottom: -50px;
+    margin-top: 50px;
+}
+
+.atlas {
+    width: 400px;
+    height: 230px;
+}
+
+.ecosport {
+    width: 350px;
+    height: 230px;
+}
+
+.infiniti {
+    width: 425px;
+    height: 230px;
+}
+
+.worst {
+    border: 7px outset red;
+    background-color: grey;
+    margin-right: 985px;
+}
+
